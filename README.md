@@ -15,7 +15,7 @@
 |:----------: |:---------------------:|:---------------------:|:---------------------:|:---------------------:|:--------------------:|
 | **Hora/Día**| **Lunes**             |**Martes**             | **Miércoles**         | **Jueves**            | **Viernes**          |
 | 12:00 p.m.  | Inglés                | Inglés                | Inglés                | Inglés                | Inglés               |
-| 01:00 p.m.  | Ing. de Software.     | Ing. de Software.     | Ing. de Software.     | Ing. de Software.     | Ing. de Software.    |
+| 01:00 p.m.  | Taller de investigación1.     | Ing. de Software.     | Ing. de Software.     | Ing. de Software.     | Ing. de Software.    |
 | 02:00 p.m.  | Leng.Software.        | Leng.Software.        | Leng.Software.        | Leng.Software.        |                      |
 | 03:00 p.m.  | Taller Sistemas O.    | Taller Sistemas O.    | Taller Sistemas O.    | Taller Sistemas O.    |                      |
 | 04:00 p.m.  | Fundamentos T.        | Fundamentos T.        | Fundamentos T.        | Fundamentos T.        |                      |
