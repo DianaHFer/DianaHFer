@@ -15,13 +15,13 @@
 |:----------: |:---------------------:|:---------------------:|:---------------------:|:---------------------:|:--------------------:|
 | **Hora/Día**| **Lunes**             |**Martes**             | **Miércoles**         | **Jueves**            | **Viernes**          |
 | 12:00 p.m.  | Inglés                | Inglés                | Inglés                | Inglés                | Inglés               |
-| 01:00 p.m.  | Taller de investigación1.     | Ing. de Software.     | Ing. de Software.     | Ing. de Software.     | Ing. de Software.    |
-| 02:00 p.m.  | Leng.Software.        | Leng.Software.        | Leng.Software.        | Leng.Software.        |                      |
-| 03:00 p.m.  | Taller Sistemas O.    | Taller Sistemas O.    | Taller Sistemas O.    | Taller Sistemas O.    |                      |
-| 04:00 p.m.  | Fundamentos T.        | Fundamentos T.        | Fundamentos T.        | Fundamentos T.        |                      |
-| 05:00 p.m.  | Leng y Autómatas I.   | Leng y Autómatas I.   | Leng y Autómatas I.   | Leng y Autómatas I.   | Leng y Autómatas I.  |
-| 06:00 p.m.  | Admon.Base de Datos.  | Admon.Base de Datos.  | Admon.Base de Datos.  | Admon.Base de Datos.  | Admon.Base de Datos. |
-| 07:00 p.m.  | P.Lógica y Funcional. | P.Lógica y Funcional. | P.Lógica y Funcional. | P.Lógica y Funcional. |                      |
+| 01:00 p.m.  | Taller de investigación1.     |Taller de investigación1.     | Taller de investigación1.     |Taller de investigación1.     |     |
+| 02:00 p.m.  | Gestión de proyectos de software. | Gestión de proyectos de software. |Gestión de proyectos de software. |Gestión de proyectos de software. | Gestión de proyectos de software.                     |
+| 03:00 p.m.  | IA    | IA    | IA    | IA    |      Gestión de proyectos de software.                |
+| 04:00 p.m.  | Sistemas programables.        |Sistemas programables.       | Sistemas programables. | Sistemas programables.      |                      |
+| 05:00 p.m.  | Leng y Autómatas II.   | Leng y Autómatas II.   | Leng y Autómatas II.   | Leng y Autómatas II.   | Leng y Autómatas II.  |
+| 06:00 p.m.  | Redes de computadoras.  |Redes de computadoras.  | Redes de computadoras.  | Redes de computadoras.  | Redes de computadoras.|
+| 07:00 p.m.  |A. avanzado de software. |A. avanzado de software.|A. avanzado de software. |A. avanzado de software. |  A. avanzado de software.                    |
 
 
 
