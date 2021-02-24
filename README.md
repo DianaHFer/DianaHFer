@@ -2,7 +2,7 @@
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 # Hola👋
-**Es una placer**✨ ***Diana Fernández***✨ 
+## **✨Es una placer que visites mi perfil**✨  
 
 **Te cuento unas cosas sobre mi para que me conozcas:**
 
@@ -15,7 +15,7 @@
 |:----------: |:---------------------:|:---------------------:|:---------------------:|:---------------------:|:--------------------:|
 | **Hora/Día**| **Lunes**             |**Martes**             | **Miércoles**         | **Jueves**            | **Viernes**          |
 | 12:00 p.m.  | Inglés                | Inglés                | Inglés                | Inglés                | Inglés               |
-| 01:00 p.m.  | Taller de investigación1.     |Taller de investigación1.     | Taller de investigación1.     |Taller de investigación1.     |     |
+| 01:00 p.m.  | Taller de investigación I.     |Taller de investigación I.     | Taller de investigación I.     |Taller de investigación I.     |     |
 | 02:00 p.m.  | Gestión de proyectos de software. | Gestión de proyectos de software. |Gestión de proyectos de software. |Gestión de proyectos de software. | Gestión de proyectos de software.                     |
 | 03:00 p.m.  | IA    | IA    | IA    | IA    |      Gestión de proyectos de software.                |
 | 04:00 p.m.  | Sistemas programables.        |Sistemas programables.       | Sistemas programables. | Sistemas programables.      |                      |
