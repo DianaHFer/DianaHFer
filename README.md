@@ -1,11 +1,13 @@
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a align="center">
+    <img alt="OB" src="https://images.cooltext.com/5508552.png" >
+    </a> 
+    
 <p align="center">
     <img alt="COLOR" src="https://github.com/DianaHFer/DianaHFer/blob/master/Images/COLOR.png">
 
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-<a align="center">
-    <img alt="OB" src="https://images.cooltext.com/5508552.png" >
-    </a>
+
 
 # **✨Es una placer que visites mi perfil**✨👋 
 <p align="center">
