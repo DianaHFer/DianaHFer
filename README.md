@@ -2,7 +2,7 @@
  align="center"> <img  src="https://images.cooltext.com/5508552.png">
 </a>
 
-___
+---
  
     
 <p align="center">
@@ -18,11 +18,13 @@ ___
 
 ## **Te cuento unas cosas sobre mi para que me conozcas:**
 
+
+
 - 👩💻Soy estudiante de Ingeníeria en Sistemas Computacionales en el Instituto Tecnológico de Tijuana...
 - 💬 Preguntame sobre cualquier tema en general , si puedo ayudarte con gusto lo hare...
 - ⚡ Me gusta hacer ejercicio 🏋...
 
-
+---
 
 |             |                       |                       | **HORARIO ESCOLAR**   |                       |                      |
 |:----------: |:---------------------:|:---------------------:|:---------------------:|:---------------------:|:--------------------:|
